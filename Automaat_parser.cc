@@ -1,7 +1,4 @@
-//
-// Created by c6222 on 2018/3/10.
-//modified based on l_parser.h from computer graphics
-//
+
 #include "Automaat_parser.h"
 #include <iomanip>
 #include <sstream>

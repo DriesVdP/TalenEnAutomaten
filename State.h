@@ -1,6 +1,4 @@
-//
-// Created by c6222 on 2018/3/10.
-//
+
 
 #ifndef AUTOMATON_STATE_H
 #define AUTOMATON_STATE_H
