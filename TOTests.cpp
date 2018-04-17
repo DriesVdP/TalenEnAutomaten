@@ -1,8 +1,4 @@
-//
-// Created by dries Van de Putte on 14/03/18.
-// Studentennummer: s0170780
-//
-//
+
 
 #include <iostream>
 #include <gtest/gtest.h>
