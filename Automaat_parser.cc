@@ -702,4 +702,3 @@ void Automaton::Automaat::DFAToRegex(stringstream &stringStream) {
 
 
 }
-

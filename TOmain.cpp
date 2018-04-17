@@ -12,6 +12,7 @@ void replaceExtension(string& s, const string& newExt);
 
 int main(int argc,  char const* argv[]) {
 
+    cout<<argv[1]<<endl;
     Automaton::Automaat iets(argv[1]);
     string file = argv[1];
 
